@@ -1,0 +1,1132 @@
+h1. Chapitres principaux
+
+h2. Région de Kitsuneyama
+
+h3. Économie
+
+* *Riz* : culture principale, avec marché de printemps pour taxation et redistribution.
+* *Thé* : production locale profitable, commerce régional.
+* *Charbon de bois* : production issue des forêts Suzakubayashi et Aokigahara-no-Hara, ressource importante pour le chauffage et le commerce vers Sunpu.
+* *Herbes médicinales* : récoltées en lisière des forêts environnantes (et même plus en avant dans Aokigahara-no-Hara), recherchées pour leurs vertus, elles alimentent un commerce régional.
+* *Bois de construction* : bois de qualité tiré de Suzakubayashi et Aokigahara-no-Hara, essentiel pour la charpenterie locale et exporté.
+* *Minerai potentiel* : gisements non exploités dans Kurogane-no-Mori, source potentielle de conflits ou d’exploitation future.
+
+h3. Hameaux et implantations secondaires
+
+* *Kamino* : petit hameau en hauteur, cultivant du thé sur les pentes brumeuses.
+* *Uramura* : isolé en lisière de Kurogane-no-Mori, habité en partie par des descendants d’anciens fidèles Kajiwara.
+* *Shitayama* : relais fluvial partiellement abandonné depuis le déclin du commerce par halage.
+* *Matsukawa* : hameau forestier vivant du bois et du charbon, en tension avec certains moines et bûcherons indépendants.
+
+h3. Infrastructure
+
+h4. Réseau routier
+
+* La route principale reliant Sunpu à Tōtōmi est distante de plusieurs kilomètres au sud et peu accessible directement depuis Kitsuneyama.
+* La voie desservant le village est partiellement abandonnée à cause de terrains difficiles (zones boueuses, ponts fragiles), ce qui complique le commerce et les communications.
+
+h4. Postes de guet
+
+* Deux postes installés à 2 km et 5 km sur la route principale, chacun tenu par trois ashigaru, chargés de surveiller les mouvements suspects et alerter en cas d’incursion.
+
+h4. Autres infrastructures
+
+* *Canaux d’irrigation* : plusieurs canaux fragiles, adaptés aux collines et vallées, essentiels pour l’agriculture. Gérés par un comité paysan. Source de tensions sur la répartition, surtout en saison sèche.
+* *Ponts locaux* : petits ponts de bois et pierre traversant ruisseaux et canaux, souvent fragiles et sujets à réparations fréquentes.
+* *Dépôts et entrepôts* : espaces de stockage pour les récoltes et matériels agricoles.
+* *Chemins secondaires et sentiers* : reliant hameaux voisins et zones agricoles, souvent mal entretenus.
+
+h3. Lieux religieux et symboliques régionaux
+
+* *Petits sanctuaires de campagne* : dédiés à divers kamis mineurs ou esprits locaux, souvent entretenus par les anciens ou les miko itinérantes.
+* *Autels et stèles oubliées* : vestiges d’époques antérieures, parfois en ruines dans les sous-bois.
+* *Autel secondaire de Kitsune* : installé dans les rizières à l’entrée sud du village.
+* *Sanctuaire de montagne* : lié au monastère Gyokudenji, accessible par un sentier abrupt.
+
+h3. Gestion des ressources naturelles
+
+* *Propriété forestière* : certaines zones appartiennent au jinya, d'autres sont exploitées librement ou revendiquées par des lignages paysans ou des temples.
+* *Charbon et herbes médicinales* : gérés en partie par une guilde informelle de cueilleurs et charbonniers, sous tolérance du jinya.
+* *Tensions d’usage* : conflits fréquents entre moines cueilleurs, chasseurs indépendants, et bûcherons, surtout dans Aokigahara-no-Hara.
+
+h3. Géographie locale
+
+* *Relief* : collines boisées, vallées encaissées, plateaux agricoles.
+* *Climat* : brumes matinales fréquentes, hivers humides, été chaud mais irrégulier.
+* *Hydrographie* : le ruisseau *Kumogawa* traverse la région d’est en ouest, alimenté par de nombreux petits affluents.
+* *Forêts* : dominent le paysage hors des vallées ; elles représentent autant un abri qu’un danger.
+
+h3. Circulation des nouvelles
+
+* Il n’existe pas de relais officiel Imagawa permanent, mais un moine-courrier du temple fait parfois la liaison avec Sunpu.
+* Les messages urgents sont confiés à des coursiers ashigaru ou des marchands fiables.
+* Les nouvelles circulent lentement, favorisant les rumeurs et les incompréhensions entre centre et périphérie.
+
+h3. Sécurité
+
+* La présence militaire, faible, est concentrée autour du *jinya* de Kitsuneyama-jō et des quelques postes de guet le long des voies principales. En dehors de ces points, la surveillance reste sporadique.
+* **Manque de patrouilles régulières** : Les ashigaru affectés à la sécurité locale sont peu nombreux, souvent cantonnés à la protection de zones stratégiques (marché, entrepôts, voies principales). Cela laisse de larges zones — notamment les sentiers forestiers et les hameaux éloignés — sans contrôle effectif.
+* *Formes de banditisme recensées* :
+** *Vols de nuit* : Biens subtilisés autour des entrepôts agricoles, dans les chariots non gardés, ou directement depuis des habitations isolées. Des outils, ballots de riz, sacs d’herbes médicinales ou de charbon sont les cibles les plus fréquentes.
+** *Extorsions en lisière* : Certains marchands ou messagers, forcés de bivouaquer à la tombée de la nuit près des forêts ou chemins secondaires, sont approchés par de petits groupes violents réclamant nourriture, argent ou silence.
+** *Embuscades ciblées* : Sur les sentiers reculés au lever ou au coucher du soleil, des groupes organisés attaquent les rares voyageurs en dehors des routes balisées. Les victimes sont souvent des contrebandiers, messagers ou personnes évitant les regards.
+* Cette insécurité alimente la peur dans les hameaux périphériques et fragilise la légitimité du pouvoir local. Des rumeurs circulent sur des "visages connus" parmi les brigands, renforçant la méfiance entre anciens partisans Kajiwara, colons pro-Imagawa, et les autorités.
+
+h3. Dynamiques politiques locales
+
+* Certains anciens fidèles des Kajiwara vivent encore dans la région, notamment dans les hameaux plus reculés.
+* Tachibana Munekiyo tente de maintenir l’ordre avec pragmatisme, mais manque de moyens.
+* Quelques figures locales (vieux chefs de hameaux, religieux influents, riches commerçants) jouent un rôle informel important, parfois en tension avec le jinya.
+
+h2. Kitsuneyama - Village fortifié
+
+h3. Bourgade
+
+* *Aspect général* :  
+** Kitsuneyama est une bourgade fortifiée modeste, avec une double palissade de troncs dressée en cercle irrégulier autour du village.
+** Un ruisseau traverse le village, enjambé par un pont de pierre.  
+** Les maisons sont principalement en bois avec toits de chaume ou tuiles légères, serrées le long de ruelles étroites.
+** Le bourg est animé lors du marché de printemps, moment-clé pour les échanges et la vie sociale.
+
+* *Bâtiments notables* :  
+** *Temple du Renard Blanc* : situé à l’intérieur de l’enceinte, près d’une porte, centre des cultes locaux et siège de la Miko.  
+** *Marché* : place centrale où se tiennent les échoppes temporaires lors des foires saisonnières.  
+** *Maison du chef du village (Nanushi)* : modeste mais bien tenue, proche du centre.  
+** *Divers ateliers d’artisans* : forge, tissage, poterie, situés en bordure du village pour limiter les risques d’incendie.  
+** *Auberge* : petite mais réputée pour accueillir voyageurs et marchands de passage.  
+** *Points d’eau communautaires* : berges aménagées du ruisseau traversant le village, avec bacs de lavage, plateformes de puisage et canaux dérivés pour l’irrigation immédiate.  
+** *Puits secondaires* : présents dans les quartiers plus éloignés du ruisseau, utilisés en complément, entretenus par les familles voisines.
+
+* *Démographie* (environ 800 à 1 000 habitants) :  
+** Paysans : 500–600 (principalement riz, thé, légumes cultivés en rizières et jardins).  
+** Artisans : 70–80 (forgerons, tisserands, potiers, charpentiers).  
+** Combattants ashigaru : 150–180 (incluant leurs familles, soit environ 400 personnes en tout).  
+** Samurais : 15–25 (dont 10–15 au service d’Imagawa, 5–10 descendants ou fidèles des anciens Kajiwara).  
+** Religieux & commerçants divers : 50–70.
+
+h3. *Kitsuneyama-jō*
+
+* *Description* :
+** Petit jinya perché au sommet d’une colline surplombant la bourgade, avec une vue dégagée sur les environs.
+** Sa fonction est à la fois administrative, militaire et judiciaire.
+** La bâtisse principale est sobre, en bois avec un toit en tuiles, renforcée par une enceinte basse et un petit fossé.
+** L’intérieur comprend bureaux pour la gestion des terres, une salle de réunion, un logement officiel pour le *yoriki* Tachibana Munekiyo, et une petite prison pour les contrevenants.
+
+* *Fonctions et rôle* :  
+** Ce lieu incarne la présence directe du clan Imagawa dans la région, gérant taxes, levées d’ashigaru, et maintien de l’ordre.
+** C’est aussi un foyer d’intrigues politiques, entre représentants loyaux et groupes locaux méfiants, ainsi qu’un point de contact avec les autorités supérieures.
+
+h3. *Temple du Renard Blanc*
+
+* Petit sanctuaire shintō dédié à une *kami renarde* protectrice.
+** Le bâtiment principal de culte, dédié à Inari.
+** Le logement de la Miko (prêtresse), souvent simple et attenant.
+** Quelques petites dépendances : réserve d’offrandes, petite grange pour rituels, peut-être un espace pour accueillir les pèlerins ou visiteurs locaux.
+* Usage possible :Conflits religieux, folklore local, lieu de mystères anciens
+* Fonction : Sanctuaire Shintō dédié à Inari renarde ; lieu de bénédictions pour les récoltes.
+* Yamamoto no Yae : Miko anxieuse / nerveuse, perçoit présages ; organise des offrandes mensuelles.
+* Conflits : Villageois soupçonnent le sanctuaire de provoquer sécheresse quand les rites sont négligés.
+* Fête : Festival de l’Inondation (début avril) : Relevé des digues, procession au sanctuaire.
+
+h3. *Quartier des paysans*
+
+* En contrebas, autour des rizières et potagers.
+* Usage possible :Problèmes sociaux, tensions paysannes, enquêtes locales
+
+---
+
+h2. Environs de Kitsuneyama
+
+---
+
+h2. *Suzakubayashi* - Forêt
+
+* Vieille forêt sacrée :
+** Fréquentée par yōkai et esprits anciens.
+** Ruines cachées (autels, stèles, tanières).
+* *Type* : Ancienne forêt mixte dominée par de vieux cèdres et pins, taillis épais et sentiers à demi effacés.
+* *Localisation* : Immédiatement à l’ouest de Kitsuneyama, bordée par le petit affluent du fleuve Amagoi.
+* *Usage* : Fourniture de bois de charpente et de chauffe, récolte d’herbes et racines pour le temple local, haltes de méditation pour l’Onmyoji.
+* *Ambiance* : Pénombre quasi permanente sous le couvert, bruissements d’insectes, légers frissons de vent qui donnent l’impression d’être observé. Arbres centenaires, clairières où la lumière danse. Quelques ruines de petits autels.
+* Rumeurs : Apparitions de renards à trois queues, échos de chants indistincts.
+* Zones dangereuses : Le bassin aux lueurs (près du vieux chêne). Bûcherons disparus.
+* *Fonction sandbox* : Point de départ d’enquêtes surnaturelles (esprits des arbres, rituels oubliés), cachette de sympathisants Kajiwara discrets, lieu de repérage et embuscades.
+* Usage possible :Exploration, combats, folklore, esprits anciens
+
+h3. *Clairière de la Pierre du Cerf*
+
+* Petite ouverture où repose un rocher creusé formant banc naturel, fréquentée par les cerfs au crépuscule.
+
+h3. *Autel de Mizuko*
+
+* Amoncellement de petites statuettes en bois et de guirlandes de papier, dédié aux esprits des eaux du ruisseau.
+
+h3. *Cavité aux Racines*
+
+* Tronc ancien renversé, dont le réseau de racines creuses forme une alcôve secrète, idéale pour une cachette.
+
+h3. *Sentier du Corbeau Brisé*
+
+* Vieux chemin latéral jalonné de plumes noires fichées dans le sol, marque d’un rituel onmyôji oublié.
+
+
+h2. *Aokigahara-no-Hara (青木ヶ原ノ原) – "Le Bois des Jeunes Arbres"* - Forêt
+
+* *Type* : Forêt secondaire, plus récente, moins dense, mais en expansion.
+* *Localisation* : Sur les hauteurs à l’est du domaine, en pente, vers les sources d’un ruisseau.
+* *Usage* : Bûcheronnage contrôlé, récolte de bois pour outils et chauffage, peu d'activité religieuse.
+* *Ambiance* : Brumeuse au matin, nombreux oiseaux, parfois des rumeurs de bêtes sauvages ou de yamauba.
+* *Fonction sandbox* : Lieu de passage plus neutre ou "quotidien", parfois utilisé comme cachette ou zone de rencontre clandestine.
+
+h3. *Monastère de Gyokudenji*
+
+* *Type et taille* : Petit monastère bouddhique Rinzai, modeste, en bois avec toits en tuiles, entouré de jardins et pins.
+* *Localisation* : Sur une colline boisée dans Aokigahara-no-Hara, à 3-4 km au sud-est de Kitsuneyama, accessible par un sentier escarpé.
+* *Usage principal* : Retraite spirituelle et méditative, enseignement bouddhique, refuge pour pèlerins et samurai, lieu de copiage de textes et abri pour voyageurs égarés.
+* *Ambiance* : Calme profond, chants de sutras au matin, senteurs d’encens, brise légère dans les pins.
+* *Fonction sandbox* : Lieu de rencontre avec moines érudits, source de savoir ancien, possible centre d’intrigues politiques ou occultes, point d’entrée du futur sōhei.
+* *Moines* : Tenu par 3 moines, notamment le moine Gyokurin, respectueux mais méfiant envers l’Onmyōji, possesseur de fragments du journal du devin.
+* *Relations locales* : Tension polie avec les Miko du Temple du Renard Blanc, chacun suspectant l’autre d’instrumentaliser la spiritualité.
+* *Bâtiments :
+** Hondo (salle principale) avec statue de Bouddha et autels secondaires.
+** Kuri (logements simples des moines).
+** Salle de méditation (Zendo) avec tatamis.
+** Jardins et allées sinueuses, bassin ou fontaine.
+** Dépendances : réserve d’encens, bibliothèque de rouleaux, cave à provisions.
+* Fête : Cérémonie de la Floraison (mi-avril), prières bouddhistes pour la fertilité des terres.
+
+h3. *Cabane des Bûcherons*
+
+* Petite hutte en planches sommaires, vestige d’un camp saisonnier, encore approvisionnée en outils émoussés.
+
+h3. *Source de Hayashi*
+
+* Source claire émergeant sous un bosquet de jeunes érables, réputée pour ses vertus purificatrices.
+
+h3. *Val du Renard*
+
+* Dépression boisée traversée par un sentier discret, réputée pour les traces fréquentes de tanuki et de kitsune.
+
+h3. *Pierre des Vœux*
+
+* Bloc de granit semi-enterré, couvert de rubans de soie et de messages, auquel on clame ses souhaits.
+
+h2. *Kurogane-no-Mori (黒金の森) – "La Forêt du Fer Noir"* - Forêt
+
+* *Type* : Ancienne forêt dans une vallée encaissée, connue pour ses sols riches en minerai (ou supposés l'être).
+* *Localisation* : Plus au sud-ouest, vers une ancienne piste commerciale oubliée.
+* *Usage* : Délaissée à cause de superstitions locales et d’une tentative d’exploitation minière ancienne abandonnée.
+* *Ambiance* : Sombre, mousseuse, nombreux troncs morts. On dit que l’air y est lourd.
+* *Fonction sandbox* : Parfait pour des rumeurs, une vieille mine cachée, ou un secret oublié lié aux Kajiwara.
+
+h3. *Ruines de la tour Kajiwara*
+
+* Vallée encaissée, sols noirs et troncs morts, vestiges d’une fortification secondaire jadis occupée par les Kajiwara.
+* Base de pierre effondrée et mâchicoulis brisés, vestige d’une fortification secondaire.
+* Ancienne tour de guet partiellement effondrée.
+* Usage possible :Souvenir de l’ancien clan, refuge de bandits ou de secrets
+
+h3. *Entrée obstruée de la mine abandonnée*
+
+* Galerie partiellement comblée par un éboulement : rumeurs de veine de fer toujours intacte.
+
+h3. *Pont de pierre effondré*
+
+* Vestige d’un ancien chemin de commerce, ses arches truffées de mousse et de lianes.
+
+h3. *Autel de la Forêt Noire*
+
+* Dalle gravée de symboles anciens, cerclée de calices de fer rouillé ; possible lieu de sacrifices.
+
+h2. *Yashagaike (夜叉ヶ池) – "Le Bois de l’Étang du Démon"* - Forêt
+
+* *Type* : Petite forêt marécageuse autour d’un étang isolé.
+* *Localisation* : Dans les terres basses au nord, difficile d’accès à pied.
+* *Usage* : Lieu de légendes, parfois utilisé comme épreuve ou tabou pour les jeunes. Interdit de chasse.
+* *Ambiance* : Très silencieuse, avec des insectes en masse. L’étang est noir, et aucune grenouille n’y chante.
+* *Fonction sandbox* : Zone de folklore et d’occulte : apparition de yōkai, traces de magie ancienne, etc.
+
+h3. *Maison abandonnée du devin*
+
+* Ancien repaire d’un onmyōji reclus, mort récemment.
+* Environs : bois marécageux autour de l’étang maudit, lieu propice aux rumeurs occultes et à l’habitation isolée d’un oracle exilé.
+* Description :
+** Dehors : Petite demeure en bois vermoulu, fenêtres murées. Marques de pas se dirigeant vers la forêt, traces d’encens rarissime.
+** Dedans : traces de calligraphies occultes, Parchemins arrachés, pentacles effacés, une flaque noire au sol.
+* Ancienne cabane d’un *onmyōji* reclus, mort récemment.
+* Usage possible :Recherches surnaturelles, premières traces de corruption (marque au sol, parchemins arrachés), possible foyer d’enquêtes ésotériques
+
+h3. *Ponton vermoulu de l’étang*
+
+* Plate-forme branlante plongeant dans une eau sombre : point d’observation des phénomènes nocturnes.
+
+h3. *Stèle engloutie*
+
+* Pierre gravée à moitié submergée dans le marais, inscriptions presque effacées par la vase.
+
+h3. *Bosquet des Lucioles*
+
+* Petite clairière marécageuse où d’innombrables lucioles dansent chaque crépuscule.
+
+---
+
+h1. Chapitres secondaires
+
+h2. Saisonnalité et calendrier
+
+h3. *Rappel sur le calendrier traditionnel japonais*** 
+
+* Jusqu’à l’ère Meiji (1873), on utilisait un calendrier luni-solaire.
+* Les mois sont numérotés du 1er au 12ᵉ, calés sur la Lune, et trois « petites saisons » (shunkō, baku-ki, tōji) jalonnent chaque saison solaire.
+* Les événements locaux suivent souvent ces repères lunaires.
+
+h3. Evènements
+
+* *Fin février (1er mois lunaire) – Setsubun*** 
+** Rite de purification avant le début du printemps : dispersions de haricots devant le Temple du Renard Blanc pour chasser les mauvais esprits.
+
+* *Mi mars (1er mois lunaire) – Shunka-sai (Fête de la Floraison)*** 
+** Cérémonie au monastère Gyokudenji et dans les clairières du Suzakubayashi pour célébrer le débourrement des arbres et offrir des prières pour la fertilité des terres.
+
+* *Avril (2ᵉ mois lunaire) – Festival de l’Inondation*** 
+** Révision des digues et procession shintoïste au Temple du Renard Blanc, visant à prévenir les crues de la saison des pluies (tsuyu).
+
+* *Mai (3ᵉ mois lunaire) – Taue no Gi (Plantation du riz)*** 
+** Cérémonie communautaire en bordure de rizières : offrandes à Inari, soutien miko/monastique, chants et danses folkloriques pour encourager une saison humide favorable.
+
+* *Juin–juillet – Saison des pluies (Tsuyu)*** 
+** Période de pluviométrie intense : routes boueuses, éboulements sur les sentiers forestiers, ponts locaux vulnérables.** 
+** *Impact* : ralentissement des convois vers Sunpu, tensions sur la répartition de l’eau dans les canaux.
+
+* *Fin juillet (5ᵉ mois lunaire) – Tanabata (Fête des étoiles)*** 
+** Décorations de tanzaku (vœux sur rubans) aux autels de Mizuko et petits sanctuaires ; vœux pour la sécurité des voyageurs et la prospérité.
+
+* *Août (6ᵉ mois lunaire) – Bon*** 
+** Commémoration des Ancêtres : veillées nocturnes aux maisons paysannes et sur les berges du Kumogawa ; offrandes de nourriture dans les petites stèles.
+
+* *Septembre (8ᵉ mois lunaire) – Tsukimi (Fête de la Lune)*** 
+** Rassemblement à la Clairière de la Pierre du Cerf et au Bosquet des Lucioles pour admirer la pleine lune et offrir des dango (gâteaux de riz).
+
+* *Octobre (9ᵉ mois lunaire) – Aki no Inori (Moisson d’automne)*** 
+** Cérémonies au Temple du Renard Blanc et au monastère Gyokudenji : offrandes de premiers épis, banquet villageois, chants de remerciement.
+
+* *Novembre (10ᵉ mois lunaire) – Niiname-sai (Fête du nouveau riz)*** 
+** Repas rituel organisé par le Nanushi et Tachibana Munekiyo dans la grande salle du jinya, dégustation du nouveau riz, renforcement des liens entre autorités et paysans.
+
+* *Décembre (11ᵉ mois lunaire) – Ōmisoka (Réveillon du Nouvel An)*** 
+** Nettoyage des ponts locaux et sanctuaires, petites offrandes au Kumogawa, préparation des shimenawa (cordages sacrés).
+
+* *Janvier (12ᵉ mois lunaire) – Shōgatsu (Nouvel An)*** 
+** Premières prières au Temple du Renard Blanc, distribution de sake rituel, offrandes de mochi (gâteaux de riz) aux enfants et aux aînés.
+
+---
+
+h3. Météo et impact annuel
+
+* *Hiver (11ᵉ–1er mois lunaire)*** 
+** *Climat* : froid, pluies modérées, gelées nocturnes rares en plaine mais fréquentes en collines.** 
+** *Impact* : entretien des digues et canaux, révision des palissades, accumulation de bois de chauffage.
+
+* *Printemps (2ᵉ–4ᵉ mois lunaire)*** 
+** *Climat* : brumes matinales fréquentes, pluies légères, températures douces.** 
+** *Impact* : reprise des travaux aux champs, réparation des ponts de bois, floraison des cerisiers et érables, renforcement des liens sociaux lors des fêtes extérieures.
+
+* *Saison des pluies (Tsuyu, 5ᵉ–6ᵉ mois lunaire)*** 
+** *Climat* : pluies quotidiennes, humidité élevée.** 
+** *Impact* : boue sur les chemins, glissements de terrain, étanchéité des toitures mise à l’épreuve. Les paysans surveillent en permanence le niveau des rizières.
+
+* *Été tardif (7ᵉ–8ᵉ mois lunaire)*** 
+** *Climat* : déclin des pluies, chaleur croissante, orages sporadiques.** 
+** *Impact* : récolte du foin, séchage des herbes médicinales, pêche sur le Kumogawa à l’aube ou au crépuscule.
+
+* *Automne (9ᵉ–10ᵉ mois lunaire)*** 
+** *Climat* : journées claires, nuits fraîches, brumes automnales dans les vallées.** 
+** *Impact* : moissons, vendanges de thé, foins de seconde coupe, préparation des entrepôts pour l’hiver.
+
+* *Fin d’automne / début d’hiver (11ᵉ–12ᵉ mois lunaire)*** 
+** *Climat* : baisse rapide des températures, premières gelées en altitude.** 
+** *Impact* : dernier nettoyage des canaux, stockage des récoltes, repli des activités extérieures.
+
+---
+
+h2. Points d’eau et hydrographie de détail
+
+* *Cours d'eau principal principal – Kumogawa (ruisseau)*
+** Traverse la région du nord au sud, puis se divise en canaux secondaires orientés est–ouest pour irriguer les rizières et alimenter l’ensemble des canaux.
+
+* *Affluents notables*
+** *Shimizu-gawa* : petit cours d’eau descendant du flanc nord des collines, clair et froid, utilisé pour rafraîchir les maisons paysannes.  
+** *Yamabuki-no-taki* : cascade de faible hauteur en amont de Suzakubayashi, point de pèlerinage local et source de légendes.
+
+* *Étangs et mares*
+** *Mare de Tanomi* : retenue saisonnière en contrebas de Kamino, sert de bassin de retenue pour l’irrigation du printemps.  
+** *Étang du Dragon* : plan d’eau permanent près d’Uramura, pêché à la ligne pour poissons d’eau douce.
+
+* *Moulins et roues à eau*
+** Quelques moulins à eau sommaires jalonnent le Kumogawa.
+** Ils sont entretenus et opérés par des spécialistes locaux — meuniers et scieurs — responsables de leur maintenance et de l’organisation des tournées de production (farine, planches).
+
+* *Bassins de riz*
+** Terrasses aménagées le long des vallées, chaque bassin relié par un réseau de canaux et de drains secondaires, formant un système hydraulique complexe et fragile.
+
+---
+
+h2. Micro‐climats et particularités géologiques
+
+h3. *Sources minérales & suintements*
+
+* *Fontaine de Koganegata* : petite source ferrugineuse au pied de la colline sud, utilisée pour ses vertus cicatrisantes et teinturières.
+* *Suintement d’argile* : affleurement argileux en lisière de Kurogane-no-Mori, exploité sporadiquement pour poterie locale.
+* *Source alcaline de Murasakino* : bassin rocheux près du monastère Gyokudenji, réputé pour adoucir la peau et soigner les rhumatismes.
+* *Veine saline* : suintement salé à la base du talus de la Mine Noire, jadis extrait en faible quantité pour conserver les aliments.
+* *Souffre latent* : puits d’air chaud chargé de soufre à l’est de Yashagaike, dégageant une légère odeur piquante en saison chaude.
+
+h3. *Cavernes & abris rocheux*
+
+* *Grotte de l’Écho* : cavité calcaire sous un affleurement près de Shitayama, connue pour ses résonances étranges lors des orages.
+* *Grotte du Tonnerre* : tunnel étroit dans la falaise de Kamino, où la pluie tambourine et résonne, inspirant respect et crainte.
+* *Grotte de la Dame* : antre voûté dans Suzakubayashi, orné de concrétions blanches, lieu de légende associée à une apparition féminine.
+* *Tunnel de l’Oubli* : passage naturel sous un rocher, entre Matsukawa et Uramura, souvent utilisé par contrebandiers pour cacher leur marchandise.
+* *Abris de granit* : amas rocheux arrondis sur les pentes abruptes, servant de refuge aux brigands ou de sites de méditation solitaire.
+
+h3. *Zones géothermiques & roches chaudes*
+
+* *Fissure tiède* : faille mineure à l’est de Matsukawa, où la roche est légèrement chauffée en sous-sol — utile pour sécher le charbon ou réchauffer un campement.
+* *Roche chaude de Sabaku* : bloc rocheux exposé au soleil, conserve la chaleur jusqu’au soir, servant de lieu de repos pour les voyageurs.
+* *Crevasse fumante* : petite fissure dans Kurogane-no-Mori, émettant une vapeur légère, parfois utilisée pour rôtir des herbes ou viandes.
+* *Banc de pierre solaire* : affleurement plat dans Aokigahara-no-Hara, idéal pour sécher les plantes médicinales le matin.
+* *Source thermale clandestine* : bassin caché dans Yashagaike, eau tiède légèrement sulfureuse, fréquenté de nuit par quelques initiés.
+
+h3. *Reliefs notables*
+
+* *Corniche du Renard* : promontoire rocheux dominant le Suzakubayashi, offrant vue panoramique mais exposé aux vents violents.
+* *Talus de la Mine Noire* : crête sombre bordant l’ancienne exploitation de minerai, couverte de schiste et ponctuée de veines de fer apparentes.
+* *Pic du Hibou* : éperon rocheux isolé dans Kurogane-no-Mori, abritant une colonie de rapaces nocturnes.
+* *Plateau du Soleil couchant* : grande dalle rocheuse près de Kamino où le soleil plonge à l’horizon, lieu de méditation et de rituels d’adieu.
+* *Escarpement du Corbeau* : falaise abrupte en bordure de Suzakubayashi, parsemée de nids de corbeaux et de croassements sinistres.
+
+h3. Brouillard et marécages saisonniers
+
+h3. *Brouillards matinaux*
+
+* Fréquents dans les vallées encaissées et sur les rizières au lever du jour, notamment au printemps et à l’automne.
+* Ces brouillards denses peuvent durer plusieurs heures, réduisant la visibilité et rendant les déplacements hasardeux.
+* Source de mystères et d’atmosphères propices aux légendes locales, parfois associés à des apparitions de yōkai ou esprits.
+
+h3. *Marécages saisonniers*
+
+* Zones basses autour de Yashagaike et de certains affluents du Kumogawa deviennent marécageuses en fin d’hiver et au printemps, avec accumulation d’eau de fonte et pluies.
+* Ces zones difficiles d’accès sont redoutées des paysans, car elles limitent la mobilité et favorisent les insectes nuisibles (moustiques, taon).
+* En été, elles se résèchent partiellement, laissant place à des herbes hautes et des prairies humides.
+* Habitat pour amphibiens rares, certaines plantes médicinales spécifiques, et parfois pour des créatures mystérieuses liées aux légendes du village (par exemple les kappa ou esprits aquatiques).
+
+h3. *Impact sur la vie locale*
+* Les brouillards et marécages conditionnent les horaires des travaux agricoles et les itinéraires de déplacement.
+* Les habitants ont développé des savoirs et rituels pour apaiser les esprits supposés liés à ces zones brumeuses et humides.
+* Ces lieux sont aussi utilisés comme cachettes par brigands ou fugitifs profitant de la couverture naturelle.
+
+h3. *Zones spécifiques*
+
+* *Bourbier de Hoshimizu* : petite cuvette marécageuse en contrebas de Yashagaike, envahie de brouillard les matins de fin d’été.
+* *Marais du Miroir* : étendue vaseuse près du Kumogawa aval, compacte après la récolte, reflète le ciel comme un miroir.
+* *Plaine inondable du Kumogawa* : zone basse en aval de Kamino, inondée après fortes pluies, favorisant certaines plantes médicinales.
+* *Mare de l’Ombre* : fosse temporaire au cœur du Suzakubayashi, recouverte de brume au crépuscule, réputée pour désorienter les voyageurs.
+* *Flaque du Silence* : étendue stagnante dans Aokigahara-no-Hara, presque sans vie, entourée de roseaux crissants.
+* La lisière nord de Yashagaike est un des secteurs où le brouillard matinal est le plus épais.
+* Certains petits vallons autour de Kamino et Uramura connaissent des flaques temporaires qui forment des marécages saisonniers, dangereux surtout après les pluies intenses.
+* Après des pluies intenses, les sentiers secondaires en forêt deviennent impraticables ou glissants pendant ces périodes, augmentant les risques d’embuscades ou de pertes.
+
+---
+
+h2. Faune locale, chasse, saisons
+
+h3. *Grand gibier*
+
+* *Sangliers sauvages* : abondants dans les sous-bois denses, parfois nuisibles aux cultures, leurs défenses sont prisées pour la fabrication d’armes ou outils.
+* *Ours noir japonais (rare)* : observations occasionnelles en été dans les zones montagneuses, source de respect et crainte ; symboles de force.
+* *Serow japonais* : chèvre-antilope des pentes rocheuses, son cuir sert à garnir fourreaux ou équipements de chasse.
+* *Cerfs Sika* : fréquents dans les lisières et clairières après le crépuscule ; chassés pour leur viande, leurs bois utilisés en artisanat et médecine traditionnelle.
+* *Cerf Sika de montagne* : sous-espèce plus trapue, présente au-dessus de 800 m dans Kurogane-no-Mori.
+
+h3. *Petit gibier*
+
+* *Lièvres japonais* : communs dans zones agricoles et clairières, chassés pour leur viande.
+* *Faisans* : répandus dans fourrés et buissons, appréciés pour la chair, souvent chassés lors de fêtes locales.
+* *Perdrix japonaises* : présentes dans les collines, cible des chasseurs saisonniers locaux.
+* *Cailles des blés* : attirées par les rizières à maturité, capturées à l’appel ou à la glu.
+* *Grives* : oiseaux migrateurs traversant la vallée, prisés pour leur chair délicate, capturés au filet.
+
+h3. *Petite faune*
+
+* *Tanuki (chien viverrin)* : espiègles, présents autour des hameaux la nuit ; leurs transformations légendaires alimentent les récits.
+* *Kitsune (renards)* : solitaires, certains sont perçus comme messagers d’Inari, d’autres suspectés de malice ou farces.
+* *Martres et fouines* : nuisibles fréquents dans les greniers, dévorant grains et petits animaux.
+* *Blongios nain* : héronnet discret fréquentant mares et étangs, symbole local de fertilité.
+* *Blaireaux* : nocturnes et solitaires, leurs terriers abandonnés servent parfois de refuges secrets.
+
+h3. *Oiseaux forestiers*
+
+* *Corbeaux et corneilles* : nichent sur l’Escarpement du Corbeau, leurs croassements sont souvent considérés comme de mauvais augure.
+* *Buses et rapaces diurnes* : surveillent les vallées depuis les Corniches et le Pic du Hibou.
+* *Mésanges et pinsons* : occupent les bosquets, leurs chants ponctuent les matins calmes.
+* *Pic épeiche japonais* : tambourine les vieux troncs, signalant la présence de larves de coléoptères.
+* *Engoulevent d’Orient* : oiseau nocturne, ses cris stridents annoncent la tombée de la nuit.
+
+h3. *Reptiles et amphibiens*
+
+* *Serpents matsumurana* (mamushi) : vipère venimeuse cachée dans les hautes herbes, active surtout en été, dangereuse pour paysans et voyageurs inattentifs.
+* *Grenouilles toro* : rares dans Yashagaike, leur absence alimente la sinistre réputation de l’étang.
+* *Tritons et salamandres* : présents dans les mares et bassins, souvent utilisés par les herboristes pour leurs composants médicinaux.
+* *Orvet fragile* : lézard sans pattes nichant sous les pierres chaudes, discret mais commun.
+* *Crapauds de pierre* : amphibiens coriaces, leur peau sécrète un poison léger, parfoisutilisé en talisman.
+
+h3. *Insectes et arthropodes*
+
+* *Lucanes cervus* : grands coléoptères attirés par les arbres morts, prisés par les enfants et collectionneurs.
+* *Lucioles* : nombreuses dans le Bosquet des Lucioles, créant un spectacle féerique les nuits d’été.
+* *Scorpions de roche* : se cachent sous les pierres chaudes, morsures douloureuses mais non mortelles.
+* *Cigales et cicadelles* : stridulent en chœur en été, marquant la saison chaude et apportant une ambiance sonore caractéristique.
+* *Papillons laïques* : nocturnes, leurs ailes iridescentes sont collectées pour réaliser talismans.
+* *Guêpes japonaises* : nidifient sous les avant-toits, défendent farouchement leur territoire au printemps.
+
+h3. *Yōkai et créatures surnaturelles*
+
+* *Tengu* : esprits à apparence d’oiseau, parfois aperçus sur Corniches et pics.
+* *Yamauba* : sorcières des montagnes, leur présence est crainte, en particulier près de Yamabuki-no-taki.
+* *Kappa* : esprits aquatiques malicieux dans zones marécageuses et rivières, considérés aussi bien comme espiègles que dangereux pour les enfants.
+* *Bakeneko* : chats dotés de pouvoirs mystérieux, liés aux maisons abandonnées comme celle du devin.
+* *Nue* : créature composite aperçue lors de nuits orageuses, son apparition est vue comme un présage de malheur (souvent imminent).
+
+h3. *Saisons de chasse et migrations*
+
+* Grand gibier chassé surtout en automne-hiver, pour préparer réserves et cuir.
+* Petit gibier capturé en fin d’hiver et printemps, période où il est plus abondant et moins farouche.
+* Oiseaux migrateurs observés au printemps et automne lors de passages saisonniers.
+* Certains insectes, notamment cigales, associés aux chaleurs estivales.
+
+h3. *Usages locaux*
+
+* Viande de gibier consommée ou troquée.
+* Peaux et bois d’animaux utilisés en artisanat (cordages, garnitures, décorations).
+* Certaines espèces ont une valeur rituelle ou spirituelle, intégrées aux croyances locales.
+
+h3. *Trafic illicite*
+
+* Commerce clandestin de peaux de cerf et sanglier, souvent pour éviter taxes ou interdictions religieuses.
+* Chasse illégale dans zones protégées ou territoires de temples.
+* Contrebande d’animaux rares (ex : certains oiseaux ou insectes prisés par nobles ou érudits).
+
+---
+
+h2. Relations inter-hameaux
+
+h3. *Rivalités*
+
+* *Kamino vs Matsukawa* :
+** Kamino, producteur de thé, dépend des routes souvent dégradées qui passent près de Matsukawa, hameau forestier.
+** Des tensions existent car Matsukawa prélève parfois du bois sans compensation, ce qui endommage des zones tampons importantes pour la culture du thé à Kamino.
+** De plus, certains bûcherons indépendants de Matsukawa sont accusés de couper des arbres dans les zones revendiquées par Kamino, provoquant des frictions.
+
+* *Uramura vs Matsukawa* :
+** Uramura, isolé près de la forêt Kurogane-no-Mori, est peuplé en partie de descendants Kajiwara, tandis que Matsukawa est plus loyal aux Imagawa.
+** Des rancunes historiques et suspicions mutuelles freinent la coopération, surtout pour l’accès au charbon de bois, ressource clé.
+
+* *Tensions sur l’eau* :
+** Le canal principal d’irrigation traverse plusieurs hameaux, et la répartition de l’eau en saison sèche est source de conflits.
+** Par exemple, Kamino accuse Shitayama de détourner l’eau pour ses rizières, ce qui pénalise la culture de thé.
+
+h3. *Relations positives*
+
+* *Kamino et Uramura* :
+** Malgré la distance et la différence d’histoire, Kamino et Uramura partagent une relation de respect mutuel, basée sur des échanges réguliers de denrées (thé contre charbon) et une coopération tacite sur la gestion des chemins secondaires reliant leurs territoires.
+
+* *Shitayama et Matsukawa* :
+** Ces deux hameaux, liés par le commerce du bois et du charbon, ont développé une coopération solide, notamment dans la maintenance des ponts et voies fluviales.
+** Matsukawa fournit aussi un appui logistique lors des récoltes de Shitayama.
+
+* *Communauté des artisans* :
+** Les artisans de plusieurs hameaux (forgeurs, tisserands, potiers) entretiennent un réseau d’entraide et d’échange de matières premières, dépassant parfois les clivages politiques et sociaux locaux.
+
+h3. *Coopérations*
+
+* *Gestion collective des canaux* :
+** Malgré les conflits, un comité paysan réunissant représentants de chaque hameau gère la maintenance des canaux et décide des répartitions d’eau, surtout en saison critique.
+** Ces réunions sont sources de débats intenses mais indispensables à la survie agricole.
+
+* *Partage des ressources forestières* :
+** Une entente tacite existe entre certains hameaux pour limiter la surexploitation des forêts Suzakubayashi et Aokigahara-no-Hara, notamment en déléguant certains secteurs à des bûcherons spécifiques qui respectent les quotas.
+
+* *Aide en cas d’urgence* :
+** Lors d’incendies, de mauvaises récoltes ou d’attaques de brigands, les hameaux s’entraident, échangeant main-d’œuvre, nourriture ou informations.
+
+* *Échanges commerciaux* :
+** Kamino fournit du thé à Matsukawa et Uramura en échange de charbon de bois et de produits forestiers.
+** Shitayama, malgré son déclin, sert encore de relais pour quelques denrées, notamment pour le bois de construction.
+
+h3. *Influence politique locale*
+
+* Certains chefs de hameaux influents exploitent ces rivalités et coopérations pour asseoir leur pouvoir local, négocier des faveurs auprès du jinya, ou favoriser leur faction dans les tensions entre pro-Imagawa et anciens partisans Kajiwara.
+* Ces dynamiques affectent la stabilité régionale et peuvent être un levier intéressant pour interventions ou intrigues des joueurs.
+
+---
+
+h2. Points de commerce, flux et commerçants influents
+
+h3. *Convois vers Sunpu*
+
+* *Fréquence* :
+** Les convois commerciaux partent environ une fois par mois, plus fréquemment en période de récoltes (fin d’automne) pour acheminer le riz et les produits forestiers.
+** Le reste de l’année, des petits groupes transportent régulièrement du thé, charbon de bois, herbes médicinales, et artisanat.
+
+* *Taille* :
+** Les convois comptent généralement entre 5 et 15 chariots ou porteurs, selon la saison et la nature des marchandises.
+
+* *Escortes* :
+** L’escorte est assurée par un petit détachement d’ashigaru (3 à 6 hommes), parfois renforcé en période de tensions ou rumeurs d’embuscades.
+** Des samurais locaux peuvent accompagner les convois pour assurer la sécurité ou représenter le pouvoir local.
+
+* *Période* :
+** Les convois évitent généralement les nuits et les saisons pluvieuses, préférant circuler de l’aube au crépuscule en saisons clémentes (printemps, automne).
+** L’hiver limite l’activité du fait des chemins boueux ou enneigés.
+
+h3. *Haltes marchandes et foires secondaires*
+
+* *Marché de Kitsuneyama* :
+** La place centrale du village accueille un grand marché lors du festival de printemps, moment de taxation et redistribution.
+** C’est l’événement commercial majeur, attirant des marchands des environs et parfois des représentants d’Imagawa.
+
+* *Relais de Shitayama* :
+** Ancien relais fluvial sur la route secondaire, partiellement délaissé, il sert occasionnellement de halte pour voyageurs et petits commerçants transportant bois ou charbon.
+
+* *Foires saisonnières dans les hameaux* :
+** Certains hameaux comme Kamino organisent de petites foires liées aux récoltes de thé, où se croisent producteurs, cueilleurs d’herbes, et artisans locaux.
+
+* *Postes de guet et relais informels* :
+** Des points de repos simples à proximité des postes de guet permettent aux convois et voyageurs de se reposer, d’échanger des nouvelles, ou de renouveler leurs provisions.
+
+h3. *Réseaux commerciaux*
+
+* *Itinéraires* :
+** Les routes principales vers Sunpu restent prioritaires, mais des chemins secondaires permettent d’éviter certains passages risqués ou endommagés.
+** Ces itinéraires alternatifs sont connus des marchands locaux.
+
+* *Flux de marchandises* :
+** Riz, charbon, bois, thé et herbes médicinales composent l’essentiel des produits exportés.
+** En retour, des tissus, outils, et produits manufacturés arrivent de Sunpu.
+
+* *Intervenants clés* :
+** Quelques marchands influents, parfois liés à des clans locaux ou au jinya, organisent et sécurisent les flux commerciaux, percevant taxes ou protections.
+
+h3. *Risques et contraintes*
+
+* *Banditisme* :
+** Menace constante sur les routes secondaires, surtout en dehors des convois escortés.
+** Cela incite à la prudence, à des itinéraires détournés ou à la limitation des transports de nuit.
+
+* *Conditions météo* :
+** Les pluies saisonnières et l’état des chemins peuvent ralentir ou suspendre les transports, affectant l’économie locale.
+
+* *Conflits locaux* :
+** Les tensions entre hameaux peuvent parfois bloquer ou perturber les flux commerciaux, surtout pour les ressources forestières et l’eau.
+
+h3. Marchands influents et organisateurs de flux commerciaux
+
+h4. *Teshima Gorōzaemon (勘定人・手島五郎左衛門)*
+
+* *Rôle* : Comptable officiel du jinya, responsable du pesage, des taxes commerciales et du transit des convois vers Sunpu.
+* *Statut* : Nominalement subordonné à Tachibana Munekiyo mais jouit d’une grande autonomie sur la logistique.
+* *Activités* :
+** Supervise les registres d’expédition, fixe les redevances en nature ou en monnaie.
+** Octroie des sauf-conduits aux marchands fiables.
+** Utilise sa position pour favoriser certains marchands contre d’autres (contre bakshish ou loyauté politique).
+* *Particularité* : Déteste l'improvisation ; aime les documents scellés et les ententes écrites.
+* *Utilisation en jeu* : Peut bloquer ou accélérer l’acheminement d’un convoi, demander une enquête sur des "fuites fiscales".
+* *Accroches spécifiques*
+** *Accroche 1* : Le jinya exige une vérification fiscale dans un hameau suspecté de fraude. Teshima demande aux PJ d’escorter un jeune inspecteur… ou de le remplacer.
+** *Accroche 2* : Un marchand récemment refusé au péage l’accuse d’abus de pouvoir. Teshima veut un "règlement propre" du différend avant que Sunpu n’en soit informé.
+** *Accroche 3* : Il détient un sauf-conduit d’intérêt pour les PJ, mais ne l’échangera que contre un service : faire pression discrètement sur un contrebandier récalcitrant.
+
+---
+
+h4. *Nagatsuka Iemon (長塚伊右衛門)*
+
+* *Rôle* : Grossiste en charbon et en bois, basé à Matsukawa, descendant d’une ancienne lignée de transporteurs.
+* *Affiliation* : Loyauté ambivalente ; ses fils sont mariés à la fois dans un clan mineur pro-Imagawa et dans une maison locale soupçonnée de nostalgie Kajiwara.
+* *Activités* :
+** Organise les coupes légales (et parfois illégales) de bois dans les forêts de Suzakubayashi.
+** Gère un entrepôt de charbon qui ravitaille les convois vers Sunpu et quelques forgerons du bourg.
+** Prête des bêtes de somme en échange de part sur les profits.
+* *Particularité* : Très respecté par les paysans des collines, connaît leurs besoins et leurs peurs.
+* *Utilisation en jeu* : Peut être une figure à convaincre lors d’une médiation entre hameaux ; a des gardes loyaux.
+* *Accroches spécifiques*
+** *Accroche 1* : Des charretiers attaqués dans la forêt disent avoir été "abandonnés" par les hommes de Nagatsuka. Celui-ci nie mais semble nerveux. Enquête ou médiation ?
+** *Accroche 2* : Le vieux marchand cherche à marier sa petite-fille à un fils d’artisan influent à Kitsuneyama, et cherche des garants pour l’union (ou des saboteurs…).
+** *Accroche 3* : Il invite les PJ à une cérémonie de thé rustique dans ses greniers à charbon, mais l’un des convives est un ancien rival… avec un message secret à livrer.
+
+---
+
+h4. *Ono Densuke (小野伝助)*
+
+* *Rôle* : Représentant itinérant d’un consortium marchand de Sunpu, installé temporairement à Kitsuneyama.
+* *Affiliation* : Loyal aux Imagawa, mais purement intéressé par le profit.
+* *Activités* :
+** Acheteur principal de thé de Kamino et d’herbes médicinales.
+** Intermédiaire pour faire entrer certains produits dans les marchés réglementés de Sunpu.
+** Dispose d’un sceau d’Imagawa Ujiteru l’autorisant à négocier au nom du clan sur certains produits.
+* *Particularité* : Cultivé, poli mais rusé. Il tient un carnet codé qu’il ne quitte jamais.
+* *Utilisation en jeu* : Peut faire des offres trop généreuses (empoisonnées), ou demander une faveur "en échange" d’un appui au jinya.
+* *Accroches spécifiques*
+** *Accroche 1* : Il propose d’acheter à prix d’or un lot de thé rare... que les PJ doivent d’abord sécuriser auprès d’un hameau hésitant, en froid avec le jinya.
+** *Accroche 2* : Il a "égaré" son carnet codé, contenant des transactions douteuses. Il demande aux PJ de le retrouver avant que quelqu’un d’autre ne l’utilise.
+** *Accroche 3* : Il soupçonne un autre marchand de vouloir l’empoisonner et offre une forte récompense à qui testera "discrètement" sa vaisselle ou son vin de prunes.
+
+---
+
+h4. *Umemura Okichi (梅村お吉)*
+
+* *Rôle* : Veuve marchande, propriétaire d’un relais de transport à Shitayama.
+* *Affiliation* : Ancienne famille locale, politiquement discrète mais appréciée par les femmes du marché.
+* *Activités* :
+** Organise des petites caravanes locales pour acheminer les surplus de récolte ou les produits artisanaux.
+** Donne parfois refuge à des voyageurs ou transporteurs fatigués.
+** Loue ses entrepôts à d’autres marchands, moyennant une redevance en nature.
+* *Particularité* : Très informée sur les allées et venues dans la région. Ses servantes écoutent plus qu’elles ne parlent.
+* *Utilisation en jeu* : Source fiable d’informations logistiques ou sociales, mais ne supporte pas les comportements brutaux ou pressés.
+* *Accroches spécifiques*
+** *Accroche 1* : Une de ses servantes a été enlevée sur la route par des hommes masqués. Okichi ne veut pas d’intervention officielle, mais supplie les PJ d’agir.
+** *Accroche 2* : Elle offre aux PJ un toit pour la nuit... en échange d’un service : escorter un coffre fermé à double serrure vers un temple "sans poser de questions".
+** *Accroche 3* : Elle souhaite récupérer un parchemin ancien légué par son défunt mari, désormais détenu par un bonze jaloux au temple Enmyō-ji.
+
+---
+
+h4. *Yamazaki Saburōta (山崎三郎太)*
+
+* *Rôle* : Transporteur semi-indépendant, expert des routes de montagne et chemins détournés.
+* *Affiliation* : Ancien brigand repenti (officiellement), protégé discret de Tachibana.
+* *Activités* :
+** Connaît les routes "non officielles" pour éviter péages, inondations ou groupes suspects.
+** Gère une petite équipe de porteurs et de mules.
+** Accepte parfois de faire transiter des objets de valeur discrètement.
+* *Particularité* : Superstitieux, refuse de voyager à certaines dates lunaires ou près de lieux hantés.
+* *Utilisation en jeu* : Peut permettre aux PJ d’atteindre rapidement un endroit isolé, ou les mettre en contact avec des contrebandiers.
+* *Accroches spécifiques*
+** *Accroche 1* : Il signale qu’un sentier secret est bloqué par un glissement de terrain... causé, selon lui, par une malédiction locale. Il cherche une protection spirituelle.
+** *Accroche 2* : Un colis de valeur confié à Yamazaki a disparu. Il accuse un porteur récemment engagé... mais le porteur est mort, et quelque chose ne colle pas.
+** *Accroche 3* : Il propose aux PJ une route discrète pour éviter des bandits... mais à condition de l’aider à retrouver un ancien camarade qu’il a trahi jadis.
+
+---
+
+h2. État des terres et fertilité
+
+h3. *Qualité des sols*
+
+* *Bas-fonds humides* :
+** Les rizières principales s’étendent dans les fonds de vallée les mieux irrigués, où l’eau s’accumule naturellement. Ces terres sont riches, profondes, bien entretenues et donnent deux récoltes dans les années favorables.
+** ⇒ *Considérées comme des biens précieux*, souvent surveillées par des agents du jinya et l’objet d’anciennes donations aux temples.
+
+* *Terrasses aménagées* :
+** Sur les pentes douces, les villageois ont construit des terrasses de culture à force de travail. Ces sols sont plus maigres et nécessitent un amendement constant (fumier, compost). Le rendement est moindre, mais ces zones assurent une production stable de millet, légumes, et théiers.
+** ⇒ *Exploitations familiales* ou partagées par les hameaux, sources de fierté locale.
+
+* *Sol caillouteux des hauteurs* :
+** Au-delà d’une certaine altitude, le sol devient rocheux et sec. Peu propice à la culture sauf en petites clairières, ces terres servent surtout pour le pâturage de chèvres ou la cueillette sauvage (champignons, racines).
+** ⇒ *Parfois utilisées comme bois communaux* ou territoires de chasse saisonnière.
+
+* *Anciennes friches* :
+** Autour de hameaux dépeuplés ou ruinés (notamment ceux touchés par la répression post-Kajiwara), certaines terres sont retournées à l’état sauvage. La végétation y est dense, mais des traces d’anciens canaux ou talus demeurent visibles.
+** ⇒ *Certains jeunes ambitieux veulent les reconquérir*, au risque de litiges fonciers.
+
+---
+
+h3. *Zones en jachère*
+
+* *Jachères tournantes* :
+** Pratiquées sur les terrasses et parcelles marginales, elles permettent de reposer le sol sur un cycle de deux ou trois ans.
+** ⇒ Souvent pâturées par des animaux ou utilisées pour planter des engrais verts comme le trèfle japonais.
+
+* *Jachères abandonnées* :
+** D’autres zones sont laissées vides depuis plusieurs années, faute de main-d’œuvre ou après des désastres naturels.
+** ⇒ Elles peuvent attirer des squatters, des ermites ou être revendiquées par des temples ou seigneuries voisines.
+
+---
+
+h3. *Terres disputées*
+
+* *Litiges entre hameaux* :
+** Certains canaux irriguant plusieurs champs traversent des territoires flous. Les disputes pour savoir qui a droit de prélever l’eau en premier sont régulières, surtout en période sèche.
+** ⇒ Le jinya arbitre avec lassitude, mais certains conflits dégénèrent en sabotages nocturnes.
+
+* *Terres anciennement Kajiwara* :
+** Quelques parcelles fertiles autrefois tenues par des familles loyales aux Kajiwara sont aujourd’hui exploitées par des colons récents.
+** ⇒ Des tensions persistent : accusations de vol de récolte, murmures de restitution, rumeurs de malédictions sur ces champs.
+
+* *Domaine frontalier avec les montagnes* :
+** À la limite nord, certaines terres sont proches de territoires semi-autonomes sous contrôle de moines-soldats ou de clans reclus.
+** ⇒ Légitimité contestée. Des cartes contradictoires circulent, et les temples entretiennent la confusion.
+
+---
+
+h3. 🧠 Carte mentale – Terres de Kitsuneyama
+
+---
+
+h4. 🌾 *1. Bas-fonds humides (rizières riches)*
+
+*Localisation* : Fonds de vallée, près du Kumogawa ou de grands canaux.
+*Usages* : Riz de qualité, parfois deux récoltes/an.
+*Acteurs* : Familles influentes, temples propriétaires, fonctionnaires du jinya.
+*Enjeux* :
+
+* Surveillance accrue par des agents du pouvoir.
+* Possibilité de conflits avec les temples pour les dîmes.
+* Cibles de saboteurs ou d’irrigation détournée.
+* Bonne base pour les festivals de récolte ou les rituels agricoles.
+
+---
+
+h4. 🪜 *2. Terrasses agricoles*
+
+*Localisation* : Flancs de colline, périphérie des hameaux.
+*Usages* : Mil, thé, patates, légumes.
+*Acteurs* : Paysannerie locale, clans familiaux.
+*Enjeux* :
+
+* Coopération ou rivalité entre familles voisines.
+* Difficultés techniques : glissements de terrain, brèches d’irrigation.
+* Lieux idéaux pour événements imprévus (apparition de yōkai, vols nocturnes).
+* Champ d’investigation pour juger les capacités d’un intendance efficace.
+
+---
+
+h4. ⛰️ *3. Terres de hauteurs caillouteuses*
+
+*Localisation* : Pentes supérieures, zones proches des bois.
+*Usages* : Pâturage, cueillette, chasse.
+*Acteurs* : Bergers, chasseurs, collecteurs itinérants.
+*Enjeux* :
+
+* Refuges de hors-la-loi ou ermites.
+* Découvertes possibles (anciens autels, caches, tanières).
+* Territoires propices aux quêtes spirituelles ou onmyōji.
+* Débats sur l’usage commun vs appropriation privée.
+
+---
+
+h4. 🌿 *4. Anciennes friches ou terres abandonnées*
+
+*Localisation* : Autour de hameaux ruinés ou dépeuplés.
+*Usages* : En jachère longue, reboisées partiellement.
+*Acteurs* : Jeunes pionniers, squatters, religieux.
+*Enjeux* :
+
+* Conflits fonciers (anciens propriétaires, temples, prétendants).
+* Infestations naturelles ou surnaturelles.
+* Possibilité d'y installer un colonat sous autorité des PJ.
+
+---
+
+h4. 🌻 *5. Jachères tournantes*
+
+*Localisation* : Proche des hameaux actifs.
+*Usages* : Repos du sol, pâturage temporaire.
+*Acteurs* : Communautés villageoises.
+*Enjeux* :
+
+* Emplacements potentiels pour extension ou rituel local.
+* Lieux propices aux observations nocturnes ou surnaturelles.
+* Objets de tentation pour laboureurs clandestins ou étrangers.
+
+---
+
+h4. ⚔️ *6. Terres disputées*
+
+*Localisation* : Le long des canaux, anciennes limites féodales, bordure montagneuse.
+*Usages* : Rizières, bois, ou jachères à valeur symbolique.
+*Acteurs* : Hameaux rivaux, temples, partisans Kajiwara.
+*Enjeux* :
+
+* Litiges à arbitrer par les PJ ou à résoudre diplomatiquement.
+* Dangers d’escalade (rixes, incendies, sabotages).
+* Traces d'anciens combats ou monuments oubliés.
+* Possibilité d’en faire des zones franches ou sanctuaires.
+
+---
+
+h3. Tableau
+
+<table>
+  <thead>
+    <tr>
+      <th>Zone</th>
+      <th>Localisation</th>
+      <th>Usages</th>
+      <th>Acteurs</th>
+      <th>Enjeux & Opportunités de Jeu</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌾 <strong>Bas-fonds humides</strong></td>
+      <td>Fonds de vallée, proches du Kumogawa et grands canaux</td>
+      <td>Riz de qualité, parfois double récolte</td>
+      <td>Familles influentes, temples, jinya</td>
+      <td>* Surveillance accrue par des agents du pouvoir.
+* Possibilité de conflits avec les temples pour les dîmes.
+* Cibles de saboteurs ou d’irrigation détournée.
+* Bonne base pour les festivals de récolte ou les rituels agricoles.</td>
+    </tr>
+    <tr>
+      <td>🪜 <strong>Terrasses agricoles</strong></td>
+      <td>Flancs de colline autour des hameaux</td>
+      <td>Mil, thé, légumes, patates</td>
+      <td>Paysans, clans familiaux</td>
+      <td>R* Coopération ou rivalité entre familles voisines.
+* Difficultés techniques : glissements de terrain, brèches d’irrigation.
+* Lieux idéaux pour événements imprévus (apparition de yōkai, vols nocturnes).
+* Champ d’investigation pour juger les capacités d’un intendance efficace.</td>
+    </tr>
+    <tr>
+      <td>⛰️ <strong>Hauteurs caillouteuses</strong></td>
+      <td>Pentes supérieures, lisières boisées</td>
+      <td>Chasse, pâturage, cueillette</td>
+      <td>Chasseurs, bergers, ermites</td>
+      <td>* Refuges de hors-la-loi ou ermites.
+* Découvertes possibles (anciens autels, caches, tanières).
+* Territoires propices aux quêtes spirituelles ou onmyōji.
+* Débats sur l’usage commun vs appropriation privée.</td>
+    </tr>
+    <tr>
+      <td>🌿 <strong>Anciennes friches</strong></td>
+      <td>Autour de hameaux ruinés</td>
+      <td>Jachère longue, forêt en reprise</td>
+      <td>Pionniers, squatters, religieux</td>
+      <td>* Conflits fonciers (anciens propriétaires, temples, prétendants).
+* Infestations naturelles ou surnaturelles.
+* Possibilité d'y installer un colonat sous autorité des PJ.</td>
+    </tr>
+    <tr>
+      <td>🌻 <strong>Jachères tournantes</strong></td>
+      <td>Près des hameaux actifs</td>
+      <td>Repos du sol, pâture temporaire</td>
+      <td>Villageois</td>
+      <td>* Emplacements potentiels pour extension ou rituel local.
+* Lieux propices aux observations nocturnes ou surnaturelles.
+* Objets de tentation pour laboureurs clandestins ou étrangers.</td>
+    </tr>
+    <tr>
+      <td>⚔️ <strong>Terres disputées</strong></td>
+      <td>Canaux, anciennes frontières, contreforts</td>
+      <td>Rizières, jachères, bois symboliques</td>
+      <td>Temples, hameaux rivaux, anciens partisans Kajiwara</td>
+      <td>* Litiges à arbitrer par les PJ ou à résoudre diplomatiquement.
+* Dangers d’escalade (rixes, incendies, sabotages).
+* Traces d'anciens combats ou monuments oubliés.
+* Possibilité d’en faire des zones franches ou sanctuaires.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+h2. Autorité spirituelle
+
+h3. Deux pôles d’influence
+
+h4. *Monastère de Gyokudenji*
+
+* Centre Rinzai zen établi depuis plusieurs générations, il joue un rôle structurant dans la spiritualité et l’éducation locale.
+* Situé à flanc de colline.
+* C’est un *centre spirituel influent* à la fois pour les élites et pour les paysans lettrés.
+* *Moine Gyokurin*, abbé actuel, jouit d’un grand respect auprès des élites comme des paysans. C'est une figure de paix et d’autorité. Il est souvent consulté par les notables et magistrats locaux en cas de conflits sociaux, de troubles surnaturels, ou de dilemmes moraux complexes. Il sert aussi de médiateur discret dans certains conflits terriens ou sociaux.
+* Le Gyokudenji sert aussi d'école aux enfants de notables et de centre de retraite pour certains vieillards ou samouraïs en disgrâce.
+* Ses moines assurent des rituels de purification, d’exorcisme et de méditation, notamment lors d'événements inhabituels (mort inexpliquée, apparition, calamité…).
+* Leur autorité morale est souvent sollicitée pour arbitrer les litiges ou organiser les rituels de purification des zones corrompues ou infestées (marécages, lieux de mort, apparitions surnaturelles…).
+* Fonction :
+** Supervise *les calendriers agraires et rituels*, en lien avec le cycle lunaire.
+** Joue un rôle discret dans la *résolution de conflits*, en tant que médiateur moral.
+** Éduque les enfants de notables et garde une *petite bibliothèque de sûtras* et ouvrages classiques.
+** Rites funéraires bouddhiques, rites de purification collective (notamment après une calamité).
+
+h4. *Temple du Renard Blanc (Byakko Jinja – sanctuaire Inari)*
+
+* Sanctuaire shintō ancien (nettement plus ancien que le Gyokudenji), lié à la fertilité, à la prospérité agricole et aux affaires locales. Lieu plus populaire, *ancré dans les traditions locales*, dédié à Inari, fortement ancré dans les pratiques agricoles et commerciales.
+* Situé près d’une ancienne colline boisée surplombant les rizières.
+* Il est géré par une *famille de *kannushi* héréditaires*, les *Yamamoto*, installés depuis plusieurs générations.
+* Cette lignée exerce une autorité rituelle et communautaire sur plusieurs hameaux agricoles.
+* Le père, *Yamamoto no Masahira*, est un homme pieux mais discret, davantage préoccupé par les rites et les archives que par les affaires politiques.
+* Sa fille cadette, *Yamamoto no Yae*, est miko, dotée d’un charisme populaire et d’une ferveur mystique.
+** Très active dans la vie du sanctuaire, elle attire une attention croissante au-delà du domaine rituel : guérisons, bénédictions, oracles, mais aussi soupçons de syncrétisme avec des pratiques ésotériques.
+** Elle exerce une influence croissante sur les communautés rurales.
+** Connue pour ses rituels de fertilité, ses prédictions saisonnières et ses interventions lors d’épidémies animales ou humaines.
+** Elle attire aussi une certaine ferveur chez les femmes et les exclus du pouvoir officiel.
+* Le temple sert aussi de lieu de foire et de rassemblement lors des fêtes d’Inari, marchés rituels et fêtes agraires, marquant le calendrier local (notamment début du printemps et fin de l’été).
+* Très populaire parmi les paysans et les artisans.
+* Certains clans de renards (kitsune) semblent attachés symboliquement au lieu – *possibilité de folklore vivant ou réel*.
+* Fonction :
+** Protège les récoltes de riz et la fertilité du sol, via des *offrandes à Inari*.
+** Organise les *fêtes de plantation (taue matsuri)*, moisson et certains *rites de passage individuels*.
+** Intervient dans les cas de *possession, malédiction*, ou demandes personnelles (guérison, fertilité, amour, commerce).
+
+Note : Le *temple et le Monastère coopèrent*, mais des tensions existent : divergences sur la lecture de certains présages, ou sur le traitement de cas surnaturels douteux.
+
+h3. ⛩️ Autres sites secondaires
+
+* *Chapelles rurales (hokora)* dans les hameaux, souvent consacrées à des *kamis locaux* ou à des ancêtres protecteurs.
+* *Ermites religieux ou yamabushi* dans les bois ou les zones reculées (certains reconnus, d'autres regardés avec méfiance).
+* *Vestiges d’anciens sites Kajiwara* dont la vocation spirituelle a été effacée ou convertie par les Imagawa.
+
+h3. 📿 Influence sur la vie quotidienne
+
+* *Calendrier rituel établi* conjointement par Gyokudenji (lunaire, bouddhique) et Byakko Jinja (saisonnier, shintō).
+* Les deux pôles *bénissent les saisons agricoles*, mais ont chacun leurs spécialités :
+** *Gyokudenji* : méditation, purification après mort ou catastrophe, rituels de cycle de vie.
+** *Byakko Jinja* : offrandes aux esprits des champs, protection contre la malchance, bénédictions des enfants ou commerces.
+* Des *conflits ou chevauchements* peuvent exister quand les deux donnent des conseils divergents (par ex. : date propice pour ouvrir un chantier ou déplacer un autel).
+
+h3. Rituels spécifiques
+
+* *Épidémies ou sécheresse*  
+  Yamamoto no Yae organise des rituels de procession avec clochettes, encens et bannières votives. Dans les cas graves, Gyokurin intervient avec un groupe de moines pour des chants rituels et la lecture de sûtras spécifiques (Lotus, Kannon…).
+
+* *Présences surnaturelles ou lieux maudits*  
+  Le Gyokudenji déploie des exorcistes discrets pour enquêter et purifier. Le peuple préfère parfois l’approche plus directe et émotionnelle de Yae, qui improvise parfois des rituels avec des objets familiers ou des traditions populaires locales.
+
+h3. 🎎 Rituels de passage et grands moments spirituels
+
+h4. *Setsubun* (expulsion des mauvais esprits)
+
+* Moment de l’année : Fin de l’hiver (1er mois)
+* Célébrants : Gyokudenji & familles / villages
+* Officiants : Moines
+* Impact social : Purification collective
+* But : Expulsion des esprits néfastes 
+
+h4. *Taue Matsuri* (fête de plantation)
+
+* Moment de l’année : Fin du 4e mois
+* Célébrants : Sanctuaires + communautés agricoles
+* Officiants : Kannushi & prêtresses
+* Impact social : Protection des récoltes, rites agricoles fondamentaux, chants, danses, offrande de saké
+* Lieu principal : Temple du Renard Blanc
+* Détails supplémentaires :
+** Bénédiction des semis avec saké, mochi, invocation d’Inari.
+** Distribution de talismans protecteurs pour éloigner sécheresse et esprits néfastes.
+** Danses rituelles et chants agraires.
+
+h4. *Tanabata* (vœux et récoltes futures)
+
+* Moment de l’année : Fin du 5e mois
+* Célébrants : Jeunes villageois
+* Impact social : Accroche d’espoirs personnels
+
+h4. *Prière contre les inondations & ravageurs*
+
+* Moment de l’année : Début de l’été (6e mois)
+* Célébrants : Temples ruraux & Temple du Renard Blanc (Byakko Jinja)
+* Officiants : Prêtresse
+* Impact social : Offrandes, rites de protection
+* But : Offrandes pour éviter les malchances agricoles
+
+h4. *Reitaisai* (fête du sanctuaire principal)
+
+* Moment de l’année : Fin de l’été (8e mois)
+* Célébrants : Kannushi & musiciens
+* Impact social : Unification des hameaux
+
+h4. *Obon*
+
+* Moment de l’année : Fin été
+* Lieu principal : Gyokudenji + maisons
+* Officiants : Familles + bonzes
+* But : Rappel des morts et offrandes
+
+h4. *Niiname-sai* (moisson)
+
+* Moment de l’année : Début de l’automne / Début du 9e mois
+* Célébrants : Gyokudenji & Temple du Renard Blanc (Byakko Jinja)
+* Officiants : Moines & prêtres shintō
+* Impact social : Gratitude collective, festivités saisonnières, partage des premiers grains
+* Détails supplémentaires :
+** Cérémonie conjointe avec chants de sûtras au Gyokudenji.
+** Procession festive au Temple du Renard Blanc avec danse des renards.
+** Distribution de pains de riz sucrés.
+
+h4. *Début de la chasse*
+
+* Moment de l’année : Mi-9e mois
+* Célébrants : Chasseurs, Gyokudenji, fidèles shintō
+* Officiants : Moines + yamabushi locaux
+* Impact social : Protection spirituelle des chasseurs
+* Détails supplémentaires :
+** Bénédiction des armes et purification des corps par le Gyokudenji.
+** Prière pour éviter les yōkai forestiers.
+** Offrandes au Temple d’Inari pour réussite et sécurité.
+
+h4. *Ōmisoka & Joya no Kane* (clôture annuelle)
+
+* Moment de l’année : Mi-hiver (12e mois)
+* Célébrants : Gyokudenji + villages
+* Impact social : Veillées, purification, bilan moral
+* Officiants : Moines
+* But : Cloche des 108 péchés, fin de cycle
+
+---
+
+h2. Lieux de rassemblement social
+
+h3. *Auberge de Kitsuneyama*
+
+* Petite mais animée, située près de la place du marché.
+* Accueille voyageurs, marchands, ashigaru et quelques samurais de passage.
+* Propose un repas simple (riz, soupe miso, légumes) et du saké local.
+* Lieu d’échanges d’informations, de potins, parfois d’accords commerciaux informels ou de recrutements pour missions.
+* Propriétaire : un ancien ashigaru retraité, respecté et bien renseigné.
+
+h3. *Bain public (Sentō)*
+
+* Structure simple en bois, alimentée par une source d’eau chaude modérée captée dans un ruisseau chaud local (pas de source thermale naturelle, mais un système de chauffe au bois).
+* Fréquenté quotidiennement par les villageois, hommes et femmes en horaires séparés.
+* Important lieu de sociabilité, où se discutent rumeurs, tensions locales, nouvelles du jinya.
+* Souvent fréquenté aussi par les ashigaru et artisans pour se détendre après une journée de travail.
+
+h3. *Lavoir communal*
+
+* Situé en bordure du ruisseau traversant Kitsuneyama, sur une berge aménagée avec bassins peu profonds.
+* Fréquenté surtout par les femmes du village.
+* Espace de socialisation où s’échangent conseils, potins, et parfois nouvelles du monde extérieur.
+* Lieu important dans la vie quotidienne, notamment durant les saisons de plantation et récolte, quand le travail du textile ou du linge s’intensifie.
+
+h3. *Place centrale et marché*
+
+* Place ouverte entourée de bâtiments communaux et commerces saisonniers.
+* Cœur des foires de printemps, quand paysans, artisans et marchands se retrouvent pour vendre, acheter, négocier et échanger.
+* Lieu de rassemblements officiels pour les annonces du Nanushi ou des représentants du jinya.
+* Occasion d’événements festifs ou religieux en lien avec le Temple du Renard Blanc (offrandes, danses, bénédictions).
+
+h3. *Petit temple/shrine secondaire*
+
+* Quelques petits sanctuaires de campagne à l’intérieur ou à proximité du village, dédiés à des kamis locaux.
+* Lieux de rassemblements communautaires lors de petites fêtes saisonnières.
+* Occasion de rencontres entre villageois et pèlerins itinérants.
+
+h3. *Salle de réunion du Nanushi* (Tashiro Genbei)
+
+* Modeste bâtiment situé près de la maison du Nanushi, où Tashiro Genbei tient ses conseils villageois et réunions avec les chefs de famille et représentants des hameaux.
+* Genbei, homme pragmatique et respecté, y organise la gestion quotidienne, notamment la coordination de l’entretien des canaux d’irrigation, la résolution des conflits locaux, et la médiation entre communautés.
+* Cet espace sert aussi de lieu d’accueil pour les messagers officiels, les représentants du jinya, ou les interventions ponctuelles des samurais.
+* Bien que Genbei supervise la vie civile, il reste sous l’autorité militaire de Tachibana Munekiyo, le yoriki Imagawa, qui contrôle les forces armées et les questions de sécurité.
+* Les relations entre Genbei et Munekiyo sont généralement cordiales mais teintées de tension latente, reflétant la différence entre gestion locale et ordre militaire.
+* La salle peut parfois servir de théâtre d’intrigues politiques ou de négociations discrètes, notamment dans ce contexte de rivalités internes à Kitsuneyama.
+
+---
+
+h2. Voies fluviales et transport par eau
+
+* *Kumogawa* : ruisseau modeste, traversant la région du nord au sud, insuffisamment large et profond pour un transport fluvial commercial significatif.
+* *Utilisation principale* : source d’eau pour l’irrigation des rizières en terrasses, alimentant les canaux d’irrigation locaux.
+* *Moulins à eau* : quelques moulins répartis le long du cours d’eau, utilisés pour moudre le riz ou d’autres céréales. Leur entretien est confié à des experts locaux qui veillent à leur bon fonctionnement, crucial pour la production agricole.
+* *Pêcheries locales* : pêche modeste de poissons d’eau douce (truites, carpes), essentiellement pour la consommation locale.
+* *Barques de petite taille* : parfois utilisées pour la pêche ou le transport léger d’outils ou matériaux entre hameaux riverains, mais jamais pour un trafic marchand important.
+* *Zones marécageuses ou bassins* : des petites étendues stagnantes ou lents bras d’eau peuvent servir de lieux de pêche, ou de points de rassemblement pour la faune aquatique locale.
+* *Impact sur la vie locale* : le Kumogawa structure l’économie rurale et les usages agricoles plus que le commerce, favorisant l’organisation communautaire autour de l’eau et renforçant les tensions sur la répartition et la maintenance des infrastructures hydrauliques.
